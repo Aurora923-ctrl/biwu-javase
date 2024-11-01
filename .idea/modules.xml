@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/biwujiaoyu-javase-porject.iml" filepath="$PROJECT_DIR$/.idea/biwujiaoyu-javase-porject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01-helloworld/day01-helloworld.iml" filepath="$PROJECT_DIR$/day01-helloworld/day01-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-constant-variable/day02-constant-variable.iml" filepath="$PROJECT_DIR$/day02-constant-variable/day02-constant-variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03-operator-scanner/day03-operator-scanner.iml" filepath="$PROJECT_DIR$/day03-operator-scanner/day03-operator-scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04-process-control/day04-process-control.iml" filepath="$PROJECT_DIR$/day04-process-control/day04-process-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-array/day05-array.iml" filepath="$PROJECT_DIR$/day05-array/day05-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-method/day06-method.iml" filepath="$PROJECT_DIR$/day06-method/day06-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-oop-01/day07-oop-01.iml" filepath="$PROJECT_DIR$/day07-oop-01/day07-oop-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-oop-02/day08-oop-02.iml" filepath="$PROJECT_DIR$/day08-oop-02/day08-oop-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-oop-03/day09-oop-03.iml" filepath="$PROJECT_DIR$/day09-oop-03/day09-oop-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-oop-04/day10-oop-04.iml" filepath="$PROJECT_DIR$/day10-oop-04/day10-oop-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-oop-05/day11-oop-05.iml" filepath="$PROJECT_DIR$/day11-oop-05/day11-oop-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-oop-06/day12-oop-06.iml" filepath="$PROJECT_DIR$/day12-oop-06/day12-oop-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13-object-string/day13-object-string.iml" filepath="$PROJECT_DIR$/day13-object-string/day13-object-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-stringbuilder-date/day14-stringbuilder-date.iml" filepath="$PROJECT_DIR$/day14-stringbuilder-date/day14-stringbuilder-date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15-regex-wrap-random/day15-regex-wrap-random.iml" filepath="$PROJECT_DIR$/day15-regex-wrap-random/day15-regex-wrap-random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16-collection-generic/day16-collection-generic.iml" filepath="$PROJECT_DIR$/day16-collection-generic/day16-collection-generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17-list-set/day17-list-set.iml" filepath="$PROJECT_DIR$/day17-list-set/day17-list-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18-list-set/day18-list-set.iml" filepath="$PROJECT_DIR$/day18-list-set/day18-list-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19-map/day19-map.iml" filepath="$PROJECT_DIR$/day19-map/day19-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20-exception/day20-exception.iml" filepath="$PROJECT_DIR$/day20-exception/day20-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21-file/day21-file.iml" filepath="$PROJECT_DIR$/day21-file/day21-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22-IO-01/day22-IO-01.iml" filepath="$PROJECT_DIR$/day22-IO-01/day22-IO-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23-IO-02/day23-IO-02.iml" filepath="$PROJECT_DIR$/day23-IO-02/day23-IO-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24-thread/day24-thread.iml" filepath="$PROJECT_DIR$/day24-thread/day24-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25-junit-reflect-enum/day25-junit-reflect-enum.iml" filepath="$PROJECT_DIR$/day25-junit-reflect-enum/day25-junit-reflect-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26-proxy-annotation/day26-proxy-annotation.iml" filepath="$PROJECT_DIR$/day26-proxy-annotation/day26-proxy-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day27-lambda/day27-lambda.iml" filepath="$PROJECT_DIR$/day27-lambda/day27-lambda.iml" />
+    </modules>
+  </component>
+</project>
